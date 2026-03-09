@@ -1,15 +1,15 @@
 {
   "name": "pqrs_express",
   "version": "1.0.0",
-  "description": "",
+  "description": "API RESTful para la gestión de PQRS (Peticiones, Quejas, Reclamos y Sugerencias) construida con Express.js",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "node ./src/app.js"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["express", "api", "pqrs", "nodejs", "rest"],
+  "author": "Keyner Arismendy",
   "license": "ISC",
   "dependencies": {
     "express": "^5.2.1"
